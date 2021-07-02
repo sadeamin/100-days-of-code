@@ -1,7 +1,7 @@
 from turtle import Screen, Turtle
-from pong_game.paddle import Paddle
-from pong_game.ball import Ball
-from pong_game.Scorebord import Scoreboard
+from paddle import Paddle
+from ball import Ball
+from Scorebord import Scoreboard
 import time
 
 
