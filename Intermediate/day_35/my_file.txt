@@ -1,0 +1,34 @@
+Friendly name:
+(575) 268-6391
+
+PHONE NUMBER:
++1 575 268 6391
+
+PHONE NUMBER SID:
+PN63bd6d3020af4632f432875bfa63a12a
+
+TYPE:
+Local
+
+
+CAPABILITIES:
+Voice, Fax, SMS, MMS
+
+
+LOCALITY:
+Clovis, NM US
+
+
+NOTES:
+
+     * Can make emergency calls when Emergency Calling is enabled.
+
+ACCOUNT SID:
+ACd06fb7ca26f0747854632a9545ed1ab5
+
+
+AUTH TOKEN:
+ef067d6d51f4c3ee00864fcb880b28e4
+
+PHONE NUMBER:
++15752686391
