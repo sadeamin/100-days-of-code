@@ -35,4 +35,4 @@ for like_tag in move_like_percent_list_tag:
 # print(move_like_list)
 with open('movie_list.txt', 'a+') as file:
     for index in range(len(move_list)):
-        file.write(f'{move_list[index]} { move_like_list[index]}\n')
+        file.write(f'{index}. {move_list[index]} { move_like_list[index]}\n')
